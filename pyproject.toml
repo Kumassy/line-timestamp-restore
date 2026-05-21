@@ -1,0 +1,8 @@
+[project]
+name = "line-timestamp-restore"
+version = "0.1.0"
+description = "Extract timestamps from LINE album and embed them into downloaded photos and videos using exiftool"
+requires-python = ">=3.12"
+dependencies = [
+    "uiautomator2>=3.5.0",
+]
