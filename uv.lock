@@ -133,7 +133,7 @@ wheels = [
 ]
 
 [[package]]
-name = "line-timestamp-dump"
+name = "line-timestamp-restore"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
